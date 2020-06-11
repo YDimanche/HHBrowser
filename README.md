@@ -17,8 +17,9 @@
 
 
 [点击这里获取找到我，获取更多哦](https://www.jianshu.com/p/7d19f0df5b6b)
-# QQ群：
-![image.png](https://upload-images.jianshu.io/upload_images/10388040-332082519cc3389f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 微信公众号
 <img src="https://upload-images.jianshu.io/upload_images/10388040-1795efb2aebc393e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
+
+# QQ群：
+<img src="https://upload-images.jianshu.io/upload_images/10388040-332082519cc3389f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" width="200px"/>
 
