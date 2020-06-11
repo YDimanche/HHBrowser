@@ -20,6 +20,5 @@
 # QQ群：
 ![image.png](https://upload-images.jianshu.io/upload_images/10388040-332082519cc3389f?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 # 微信公众号
-分享小知识，记录你的小故事呀
-![微信公众号.jpg](https://upload-images.jianshu.io/upload_images/10388040-1795efb2aebc393e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+<img src="https://upload-images.jianshu.io/upload_images/10388040-1795efb2aebc393e?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240"/>
 
