@@ -1,0 +1,3 @@
+include ':CustomView'
+include ':app'
+rootProject.name = "HHBrowser"
