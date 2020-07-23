@@ -1,4 +1,4 @@
-基于android原生webview的封装，默认设置了WebChromeClient、WebViewClient、WebSettings等类
+憨憨浏览器是基于android原生webview的封装，默认设置了WebChromeClient、WebViewClient、WebSettings等类
 # 优点：
 1、默认支持JavaScript、网页缩放、html5等<br/>
 2、支持网页中http和https共存，无需担心https页面中带有http的图片无法显示的问题<br/>
